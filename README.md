@@ -12,7 +12,7 @@ Before developer marketing and Program Management...
 * 🕸 I was a **web developer** for most of my career when I was a developer, I worked at everything from banks to startups. I was everything from junior dev to team lead and architected a few things
 * 🚔 In my youth I was a volunteer **NYPD Auxiliary Police Officer** for closer to six years, my experience didn't reflect what is going on in our society today and we badly need major reform in this country **#BlackLivesMatter**
 
-You can fund a bunch more details on LinkedIn: https://www.linkedin.com/in/dmitrylyalin/
+You can find a bunch more details on LinkedIn: https://www.linkedin.com/in/dmitrylyalin/
 
 # Talk to me
 You can reach me on Twitter: https://www.twitter.com/lyalindotcom
