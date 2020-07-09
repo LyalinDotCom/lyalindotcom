@@ -8,7 +8,7 @@ Before developer marketing and Program Management...
 * 👨‍💻 I used to be a developer in **Microsoft Consulting Services**, where I worked on some WPF, Silverlight and ASP.NET Projects
 * 🤝 I spent some time working in **Microsoft Premier Support**, I was an ADM there building and delivering hands-on training around agile, ASP.NET web development and C#. I also helped customers know what the new technology was coming and helped them through issues
 * 📱 I built some **Windows Phone** apps for myself and others when that was a thing as an independent developer
-* 🎙 I used to have a **Podcast** called the Connected Show with my buddy Peter
+* 🎙 I used to have a **Podcast** called the Connected Show with my buddy Peter. I've also spoken at many developer events on various topics and hosted others as guests on [Microsoft Channel 9 shows](https://channel9.msdn.com/Niners/LyalinDotCom)
 * 🕸 I was a **web developer** for most of my career when I was a developer, I worked at everything from banks to startups. I was everything from junior dev to team lead and architected a few things
 * 🚔 In my youth I was a volunteer **NYPD Auxiliary Police Officer** for closer to six years, my experience didn't reflect what is going on in our society today and we badly need major reform in this country **#BlackLivesMatter**
 
