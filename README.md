@@ -10,7 +10,7 @@ Before developer marketing and Program Management...
 * 📱 I built some **Windows Phone** apps for myself and others when that was a thing as an independent developer
 * 🎙 I used to have a **Podcast** called the Connected Show with my buddy Peter. I've also **presented at many developer events** on various topics and hosted others as guests on [Microsoft Channel 9 shows](https://channel9.msdn.com/Niners/LyalinDotCom)
 * 🕸 I was a **web developer** for most of my career when I was a developer, I worked at everything from banks to startups. I had many job titles from junior developer to team lead and even architected a few things
-* 🚔 In my youth I was a volunteer **NYPD Auxiliary Police Officer** for closer to six years, my experience didn't reflect what is going on in our society today and we badly need major reform in this country **#BlackLivesMatter**
+* 🚔 In my youth I was a volunteer **NYPD Auxiliary Police Officer** for close to six years, my experience didn't reflect what is going on in our society today and we badly need major reform in this country **#BlackLivesMatter**
 
 You can find a bunch more details on LinkedIn: https://www.linkedin.com/in/dmitrylyalin/
 
