@@ -1,7 +1,7 @@
 # Dmitry Lyalin @lyalindotcom
 Hi! 😸, I'm Dmitry—a senior Program Manager (PM) at Microsoft, I work on XAML tools for desktop developers (WPF/UWP), Xamarin.Forms and .NET MAUI. Previously I worked in developer marketing helping run big developer events like Build, .NET Conf and Connect();. I also launched Visual Studio releases a few times, branded a few things (hello CodeLens) and was the Product Manager who launched Azure DevOps.
 
-### I've had a long career so here are six highlights so that you know me better:
+**I've had a long career so here are six highlights to help you get to know me better**
 
 Before developer marketing and Program Management...
 
