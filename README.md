@@ -1,2 +1,4 @@
-# Dmitry Lyalin
-Hello and welcome to my profile!
+😸
+
+# Dmitry Lyalin @lyalindotcom
+Hi! I'm Dmitry 
