@@ -1,7 +1,7 @@
 # Dmitry Lyalin @lyalindotcom
 Hi! 😸, I'm Dmitry-a Group Product Manager at Google working on Firebase developer services. My teams owns Cloud Functions for Firebase, Firebase Cloud Storage, Firebase Hosting, Firebase Authentication, Firestore SDKs and a few other things.
 
-Previously to Google, I worked at Microsoft building Hot Reload technology for .NET/C++ developers, working on .NET MAUI 1.0, and creating XAML tools for desktop developers (WPF/UWP), Xamarin.Forms and .NET MAUI. Before coming a PM at Microsoft I worked in developer marketing helping run big developer events like Build, .NET Conf and Connect();. I also launched Visual Studio releases a few times, branded a few things (hello CodeLens) and was the Product Manager who launched Azure DevOps.
+Previously to Google, I worked at Microsoft building Hot Reload technology for .NET/C++ developers, working on .NET MAUI 1.0, and creating XAML tools for desktop developers (WPF/UWP), Xamarin.Forms and .NET MAUI. Before becoming a PM at Microsoft I worked in developer marketing helping run big developer events like Build, .NET Conf and Connect();. I also launched Visual Studio releases a few times, branded a few things (hello CodeLens) and was the Product Manager who launched Azure DevOps.
 
 **I've had a long career so here are six highlights to help you get to know me better**
 
